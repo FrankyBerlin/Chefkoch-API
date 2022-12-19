@@ -1,4 +1,4 @@
-# Chefkoch-API
+# Chefkoch-API, forked from VinzSpring on Dec 19 2022
 A small API for pulling recipe data from [Chefkoch](www.chefkoch.de)
 This project was made for machine learning researcers who'd need to craft a database of different dishes and their
 ingredients.
